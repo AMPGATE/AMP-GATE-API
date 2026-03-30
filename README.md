@@ -66,22 +66,6 @@ AMP GATE is **not a research project**. It is a production-ready platform design
 
 ---
 
-## Access
-
-AMP GATE operates on an **account-based model**. There is no public free tier.
-
-Organizations interested in evaluating the platform may **open an account and receive 5 days of full platform access** at no cost. Following the evaluation period, access continues under a paid plan appropriate to your scale.
-
-This is an enterprise product. It is priced, structured, and supported as one.
-
-**Plans begin at $49/month** for growing teams and scale to custom enterprise agreements for organizations with large agent fleets, compliance requirements, or on-premise deployment needs.
-
-To open an account or discuss enterprise access, contact:
-
-📧 **[ampgatefundraise@proton.me]**
-
----
-
 ## Funding
 
 AMP GATE is currently in the process of securing infrastructure funding to bring the platform to full public availability.
