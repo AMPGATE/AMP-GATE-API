@@ -78,7 +78,7 @@ This is an enterprise product. It is priced, structured, and supported as one.
 
 To open an account or discuss enterprise access, contact:
 
-📧 **[your-email@domain.com]**
+📧 **[ampgatefundraise@proton.me]**
 
 ---
 
@@ -109,7 +109,7 @@ The enterprise AI agent market is growing faster than the security infrastructur
 
 If you are an investor, angel, fund, or strategic partner interested in discussing this opportunity:
 
-📧 **[your-email@domain.com]**
+📧 **[ampgatefundraise@proton.me]**
 
 Include a brief description of your background and how you found AMP GATE. We respond to every serious inquiry.
 
@@ -138,4 +138,4 @@ AMP GATE is building that layer.
 ---
 
 *AMP GATE is a proprietary platform. All rights reserved.*
-*For enterprise inquiries and investment discussions: **[your-email@domain.com]***
+*For enterprise inquiries and investment discussions: **[ampgatefundraise@proton.me]***
